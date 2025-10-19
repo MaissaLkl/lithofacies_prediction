@@ -28,13 +28,12 @@ The workflow is documented both in a **Jupyter Notebook** and a **technical repo
 
 ## 📂 Project Structure  
 ```
-├── Challenge/
-│ └── Data/
-│ |  └── train.csv
-| └── Code/
-│ |  └── Startegies.ipynb
-│ |  └── Challenge_V1.ipynb
-│ |  └── Challenge_V2.ipnb
+├── Data/
+│ └── train.csv
+├── Code/
+│ └── Startegies.ipynb
+│ └── Challenge_V1.ipynb
+│ ── Challenge_V2.ipnb
 ├── Reports/
 │ └── Final_Report.pdf
 │ └── Strategies_Report.pdf
