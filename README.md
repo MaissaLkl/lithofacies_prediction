@@ -33,7 +33,7 @@ The workflow is documented both in a **Jupyter Notebook** and a **technical repo
 ├── Code/
 │ └── Startegies.ipynb
 │ └── Challenge_V1.ipynb
-│ ── Challenge_V2.ipnb
+│ └──  Challenge_V2.ipnb
 ├── Reports/
 │ └── Final_Report.pdf
 │ └── Strategies_Report.pdf
